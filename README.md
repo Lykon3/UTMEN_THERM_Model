@@ -46,3 +46,5 @@ Additional Work
 This project is part of a broader exploration of recursive intelligence systems, symbolic parsing, and applied interface design. Parallel files in this repository reflect prototype engines, manuscript fragments, and front-end app experiments (via Streamlit) that stem from UTMEN's core architecture.
 
 While UTMEN centers on recursive physical coherence, these documents explore how similar principles can structure legal, financial, and interpretive domains.
+[View UTMEN arXiv Submission (Pending)](https://arxiv.org/)  
+*(link will be updated when approved)*

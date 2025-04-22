@@ -56,3 +56,10 @@ While UTMEN centers on recursive physical coherence, these documents explore how
 - [Theory Overview](theory_overview.md)
 - [Implementation Notes](implementation_notes.md)
 - [Potential Applications](potential_applications.md)
+---
+
+### Related Documents
+
+- [Theory Overview](theory_overview.md) — explains the UTMEN/THRM geometric framework.
+- [Implementation Notes](implementation_notes.md) — development roadmap and architecture logic.
+- [Potential Applications](potential_applications.md) — use cases from government segmentation to symbolic AI systems.

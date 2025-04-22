@@ -49,3 +49,10 @@ This project is part of a broader exploration of recursive intelligence systems,
 While UTMEN centers on recursive physical coherence, these documents explore how similar principles can structure legal, financial, and interpretive domains.
 [View UTMEN arXiv Submission (Pending)](https://arxiv.org/)  
 *(link will be updated when approved)*
+---
+
+### Related Documents
+
+- [Theory Overview](theory_overview.md)
+- [Implementation Notes](implementation_notes.md)
+- [Potential Applications](potential_applications.md)

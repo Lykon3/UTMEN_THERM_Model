@@ -41,3 +41,8 @@ These elements satisfy a **Triple-Resonance Condition**, governing recursive geo
 
 > “I’m not from a university. I’m from the future.”  
 > — Matthew (with help from AI)
+Additional Work
+
+This project is part of a broader exploration of recursive intelligence systems, symbolic parsing, and applied interface design. Parallel files in this repository reflect prototype engines, manuscript fragments, and front-end app experiments (via Streamlit) that stem from UTMEN's core architecture.
+
+While UTMEN centers on recursive physical coherence, these documents explore how similar principles can structure legal, financial, and interpretive domains.
